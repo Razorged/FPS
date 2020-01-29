@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 258109786}
   - component: {fileID: 258109790}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1037,7 +1037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 10
-  range: 300
+  gunForce: 3000
   fpsCam: {fileID: 1139406891}
 --- !u!1 &2011135767
 GameObject:
